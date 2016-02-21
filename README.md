@@ -57,6 +57,17 @@ functions.
 
 * Note that in this dataset missing values are coded as `?`.
 
+## Making the plots
+* The code for each plot is included in a R file. In order to generate plot1 for instance, you need to type `source('plot1.R')` in the same folder where your household data is located.
+* This will generate a plot like the one below for plot1:
+### Plot 1
+
+
+![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+
+
+## Special Instructions
+* Please include the `household_power_consumption.txt` file in this folder in order to source the files.
 
 
 
